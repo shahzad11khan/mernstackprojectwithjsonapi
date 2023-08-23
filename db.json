@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": "frontend",
+      "author": "hamza",
+      "id": 4
+    },
+    {
+      "title": "mern stack",
+      "author": "shahzad khan",
+      "id": 5
+    }
+  ]
+}
